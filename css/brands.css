@@ -448,6 +448,16 @@ button:hover,
   filter: brightness(90%);
 }
 
+/* Status */
+.button.button-status {
+  color: #ffffff;
+  background-color: #10152b;
+}
+.button.button-status:hover,
+.button.button-status:focus {
+  filter: brightness(90%);
+}
+
 /* Steam */
 .button.button-steam {
   color: #ffffff;
